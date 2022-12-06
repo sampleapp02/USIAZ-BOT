@@ -1,5 +1,5 @@
 # USIAZ-BOT
-myu new project
+my new project
 # CATATAN ( NOTE )
 
 ## In some cases, the bot may stop working automatically as soon as the button issue is resolved. So, if it happens, turn the restart Bot. I will find a solution soon.
