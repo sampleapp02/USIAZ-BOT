@@ -14,7 +14,7 @@ Script WhatsApp Bot Multi Device
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F637189047272133373%2F&psig=AOvVaw0V65GIBiZr_yU_GUkp_yga&ust=1670426947370000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjUwoeq5fsCFQAAAAAdAAAAABAE" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">USIAZ-BOT</h1>
 
